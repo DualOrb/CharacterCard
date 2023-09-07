@@ -1,0 +1,223 @@
+"": {
+    "1.17.1": {
+        SILVERFISH: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 77
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+        TURTLE: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 96
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            IS_BABY: 16
+            SILENT: 4
+        }
+        ARMOR_STAND: {
+            INVISIBLE_CROUCH: 0
+            ENTITY-ID: 1
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            IS_SMALL_MARKER: 15
+            SILENT: 4
+        }
+        TROPICAL_FISH: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 95
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+        SLIME: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 80
+            SIZE: 16
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+    }
+    "1.18.0": {
+        SILVERFISH: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 77
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+        TURTLE: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 96
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            IS_BABY: 16
+            SILENT: 4
+        }
+        ARMOR_STAND: {
+            INVISIBLE_CROUCH: 0
+            ENTITY-ID: 1
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            IS_SMALL_MARKER: 15
+            SILENT: 4
+        }
+        TROPICAL_FISH: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 95
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+        SLIME: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 80
+            SIZE: 16
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+    }
+    "1.19.0": {
+        SILVERFISH: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 77
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+        TURTLE: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 96
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            IS_BABY: 16
+            SILENT: 4
+        }
+        ARMOR_STAND: {
+            INVISIBLE_CROUCH: 0
+            ENTITY-ID: 1
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            IS_SMALL_MARKER: 15
+            SILENT: 4
+        }
+        TROPICAL_FISH: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 95
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+        SLIME: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 80
+            SIZE: 16
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+    }
+    "1.19.1": {
+        SILVERFISH: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 77
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+        TURTLE: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 96
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            IS_BABY: 16
+            SILENT: 4
+        }
+        ARMOR_STAND: {
+            INVISIBLE_CROUCH: 0
+            ENTITY-ID: 1
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            IS_SMALL_MARKER: 15
+            SILENT: 4
+        }
+        TROPICAL_FISH: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 95
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+        SLIME: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 80
+            SIZE: 16
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+    }
+
+    "1.19.3": {
+        SILVERFISH: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 77
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+        TURTLE: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 96
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            IS_BABY: 16
+            SILENT: 4
+        }
+        ARMOR_STAND: {
+            INVISIBLE_CROUCH: 0
+            ENTITY-ID: 1
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            IS_SMALL_MARKER: 15
+            SILENT: 4
+        }
+        TROPICAL_FISH: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 95
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+        SLIME: {
+            INVISIBLE_CROUCH: 0
+            NO_AI: 15
+            ENTITY-ID: 80
+            SIZE: 16
+            CUSTOM_NAME: 2
+            NAME_VISIBLE: 3
+            SILENT: 4
+        }
+    }
+}

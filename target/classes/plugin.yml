@@ -1,0 +1,15 @@
+name: CharacterCard
+version: '1.0-SNAPSHOT'
+main: charactercard.charactercard.CharacterCard
+api-version: 1.19
+authors: [ Nicksarmor ]
+description: A simple Character Card plugin for RPG purposes
+commands:
+  ccard:
+    description: Opens a user's character card
+    usage: /<ccard> <user|Optional>
+    permission: CharacterCard.OpenCard.self
+  rp-toggle:
+    description: Toggles RP mode for the player
+    usage: /<rp-toggle>
+    permission: CharacterCard.rp-toggle

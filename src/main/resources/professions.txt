@@ -1,0 +1,90 @@
+Alchemist
+Armorer
+Bard
+Bookbinder
+Brewer
+Cook
+Falconer
+Furrier
+Glassblower
+Gravedigger
+Herald
+Illuminator
+Jeweler
+Mason
+Mercenary
+Navigator
+Potter
+Sculptor
+Shipwright
+Vintner
+Blacksmith
+Knight
+Archer
+Farmer
+Baker
+Weaver
+Carpenter
+Apothecary
+Scribe
+Monk
+Miller
+Tanner
+Tailor
+Falconer
+Innkeeper
+Cooper (barrel maker)
+Barber-Surgeon
+Jester
+Stablehand
+Minstrel
+Potion Brewer
+Shadow Dancer
+Rune Weaver
+Spell Binder
+Monster Slayer
+Dragon Tamer
+Crystal Seer
+Fire Mage
+Spirit Whisperer
+Beast Master
+Soul Alchemist
+Fortune Teller
+Storm Caller
+Sacred Guardian
+Arcane Archer
+Earth Shaper
+Dreamweaver
+Time Bender
+Bardic Troubadour
+Ice Sculptor
+Divine Healer
+Shadow Hunter
+Nature Warden
+Elemental Conjurer
+Astral Navigator
+Mind Reader
+Mythical Beast Trainer
+Celestial Oracle
+Potion Mixologist
+Rune Carver
+Spellbreaker
+Monster Hunter
+Dragon Whisperer
+Crystal Gazer
+Fire Sorcerer
+Spirit Channeler
+Beast Tamer
+Soul Reaper
+Fortune Seeker
+Storm Shaman
+Sacred Knight
+Arcane Enchanter
+Earth Guardian
+Dream Guardian
+Time Traveler
+Bardic Minstrel
+Ice Mage
+Divine Priest
+Shadow Stalker
+Nature Druid

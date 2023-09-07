@@ -1,0 +1,30 @@
+# Character Cards - Ver 1.0 (BETA)
+# Author: Nicksarmour
+
+# A very simple character card plugin
+
+#Basic Configuration
+basic:
+
+  #Height in baby turtles
+  height: 4
+
+  #If you right click with empty hand, will it say the character's greeting
+  right-click-intro: true
+
+  #Show Rp Name above head
+  show-rp-name: true
+
+#To do with models / texture pack stuff TBD
+texture-pack:
+  custom-gui: false
+
+#Ranges for each type of RP Chat
+range:
+  normal-range: 20
+  shout-range: 50
+  whisper-range: 3
+
+names:
+  show-rp-prefix: true
+  name-color: D59115
